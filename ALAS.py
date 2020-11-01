@@ -19,8 +19,8 @@ mengetik('...')
 mengetik('...')
 mengetik('RUSHI+LILI!')
 mengetik('100%')
-mengetik ('Odisha Kalahandi Kala Munda
-mengetik my YouTube channel
-mengetik ('............Rushi sahu')
-mengetik ('All YouTube iLOve you')
+mengetik('Odisha Kalahandi Kala Munda
+mengetik('my YouTube channel
+mengetik('............Rushi sahu')
+mengetik('All YouTube iLOve you')
 mengetik('RUSHI')
